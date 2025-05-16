@@ -9,14 +9,14 @@ Central place to track all projects under the Elan brand.
 ### 1. Elan Rides
 
 #### 🔗 Frontend
-- [Elan Rides Frontend](#)
+- [Elan Rides Frontend](#) *(add link)*
 
 #### ⚙️ Microservices
-- [Review Service](#https://github.com/Harshjha002/elan-ride-review-service) – Handles user reviews
+- [Review Service](https://github.com/Harshjha002/elan-ride-review-service) – Handles user reviews
 
 ---
 
 ## 🛠️ Notes
 
-- Each service will have its own repo
-- This file will be updated as projects grow
+- Each service has its own repository
+- This file will be updated as new components are added
